@@ -1,5 +1,7 @@
 # minimal-styled
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/viankakrisna/minimal-styled.svg)](https://greenkeeper.io/)
+
 [![Travis][build-badge]][build]
 [![npm package][npm-badge]][npm]
 [![Coveralls][coveralls-badge]][coveralls]
